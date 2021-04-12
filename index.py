@@ -119,7 +119,7 @@ def logout():
     login()
 
 def complaintOperation():
-    complaint=input('What issue would you like to report?\n')
+    input('What issue would you like to report?\n')
     print('\nThank you for contacting us.')
 
 init()
